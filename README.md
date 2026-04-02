@@ -44,4 +44,5 @@ smart-attendance-backend/
 │   └── utils/        # Helper functions
 ├── config.py         # App configuration
 └── run.py            # Entry point
-```
+
+
