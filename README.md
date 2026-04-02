@@ -48,8 +48,3 @@ smart-attendance-backend/
 
 ---
 
-Then commit it:
-```
-git add README.md
-git commit -m "Add detailed project planning and API documentation"
-git push
