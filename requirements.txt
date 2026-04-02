@@ -1,0 +1,33 @@
+# Core Framework
+flask
+flask-sqlalchemy
+flask-jwt-extended
+
+
+flask-swagger-ui
+flasgger
+
+# Security
+werkzeug
+python-dotenv
+
+# Database
+sqlalchemy
+
+# Firebase
+firebase-admin
+
+# Image Processing (for receiving face images from mobile)
+pillow
+numpy
+opencv-python
+
+# Face Recognition Integration
+face-recognition
+
+# API Utilities
+flask-cors
+requests
+
+# Testing
+pytest
